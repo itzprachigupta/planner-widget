@@ -1,5 +1,7 @@
 .App {
   background: url("background.jpg");
+  /* background: url("https://cdn.pixabay.com/photo/2013/11/22/17/25/glasses-215878_1280.jpg"); */
+  background-size: cover;
   height: 100vh;
   display: flex;
   justify-content: flex-start;
